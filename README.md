@@ -5,7 +5,7 @@
 
 ## Description
 
-This repository contains an operational amplifier designed as part of the *Analog Integrated Circuits* course, taught by Professor Dr. Cesar Augusto Prior during the first semester of 2024, in the Computer Engineering program.
+This repository contains an operational amplifier designed as part of the *Analog Integrated Circuits (CIA)* course, taught by Professor Dr. Cesar Augusto Prior during the first semester of 2024 in the Computer Engineering (UFSM) program.
 
 It was my first experience with analog design and *layout* implementation.
 
