@@ -70,7 +70,7 @@ The circuit was developed using the Virtuoso design environment and the *gpdk45*
 
 ## Layout
 
-It was my very first one, so don’t expect miracles! 😅
+It was my first one, so don’t expect miracles! 😅
 
 <div style="text-align: center;">
 <img src="images/Screenshot from 2025-07-21 10-43-55.png"  width="100%">
